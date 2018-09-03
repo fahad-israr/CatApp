@@ -39,10 +39,10 @@
    "density": "4.0"
   },
     {
-   "src": "Cat.jpg",
-   "sizes": "1334x750",
-   "type": "image/jpg",
-   "density": "3.0"
+   "src": "react-logo.png",
+   "sizes": "768x768",
+   "type": "image/png",
+   "density": "1.0"
   }
     
   ],
